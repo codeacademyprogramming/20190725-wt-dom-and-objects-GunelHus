@@ -2,6 +2,8 @@
 
 document.title = "Task2";
 let divHeader = document.createElement("div");
+let main = document.createElement("main");
+let footer = document.createElement("footer");
 let h4 = document.createElement("h4");
 let h1 = document.createElement("h1");
 let divPotter = document.createElement("div");
